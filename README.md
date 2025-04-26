@@ -1,4 +1,6 @@
-## Hi there 👋
+> If you're here, you're either a curious cookie or you're about to employ me. Either way, I like you already.
+
+[Personal website](https://www.lachlanharris.dev) &middot; [Favourite Project](https://github.com/lachlanharrisdev/PROJECT-EIDOLON) &middot; [A broken link](https://)
 
 <!--
 **lachlanharrisdev/lachlanharrisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
