@@ -1,6 +1,8 @@
-> If you're here, you're either a curious cookie or you're about to employ me. Either way, I like you already.
+> *The truth about the world, he said, is that anything is possible. Had you not seen it all from birth and thereby bled it of its strangeness it would appear to you for what it is, a hat trick in a medicine show, a fevered dream, a trance bepopulate with chimeras having neither analogue nor precedent*
+>
+> *- Cormac McCarthy, Blood Meridian*
 
-[Personal website](https://www.lachlanharris.dev) &middot; [Favourite Project](https://github.com/lachlanharrisdev/PROJECT-EIDOLON) &middot; [A broken link](https://)
+[Personal website](https://www.lachlanharris.dev) &middot; [Favourite Project](https://github.com/lachlanharrisdev/malware-samples) &middot; [A link that does nothing](https://)
 
 <!--
 **lachlanharrisdev/lachlanharrisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
