@@ -2,4 +2,4 @@
 >
 > *- Cormac McCarthy, Blood Meridian*
 
-[Personal website](https://www.lachlanharris.dev) &middot; [Favourite Project](https://github.com/lachlanharrisdev/malware-samples) &middot; [A link that does nothing](https://)
+[Personal website](https://www.lachlanharris.dev) &middot; [Credentials](https://certs.ine.com/850ffe13-5f06-4329-81dd-b71ac27c80b6#acc.cLUBGDho) &middot; [Favourite Project](https://github.com/lance-security/praetor) &middot; [A link that does nothing](https://)
