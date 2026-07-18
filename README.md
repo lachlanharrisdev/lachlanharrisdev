@@ -2,4 +2,4 @@
 >
 > *- Cormac McCarthy, Blood Meridian*
 
-[Credentials](https://www.lachlanharris.dev/#cv) &middot; [Favourite Project](https://github.com/lance-security/praetor) &middot; [A link that does nothing](https://) ![](https://cloud.umami.is/p/L0xtgU9Ms)
+[Business Card](https://www.lachlanharris.au) &middot; [Favourite Project](https://github.com/lachlanharrisdev/praetor) &middot; [A link that does nothing](https://)
