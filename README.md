@@ -2,4 +2,4 @@
 >
 > *- Cormac McCarthy, Blood Meridian*
 
-[Business Card](https://www.lachlanharris.au) &middot; [Favourite Project](https://github.com/lachlanharrisdev/praetor) &middot; [A link that does nothing](https://)
+[Personal Site](https://www.lachlanharris.au) &middot; [Favourite Project](https://github.com/lachlanharrisdev/gonetsim) &middot; [`security.txt`](https://www.lachlanharris.au/.well-known/security.txt)
